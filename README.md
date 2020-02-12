@@ -1,5 +1,3 @@
-## 1er exercice dans le cadre de l'apprentissage de React à l'école "Le Réacteur" le 02-02-2020.
-
 **Consignes:**
 
 * Le premier cadre gris représente un composant Content. 
